@@ -10,7 +10,7 @@ This repository collects material and documentation of project deliverables rela
 
 ## Wiki on Software Verification Tools
 
-The working group maintains an inventory of software verification tools, which can be found at the GitHub Wiki of this repository.
+The working group maintains an inventory of software verification tools, which can be found at the [GitHub Wiki]((https://github.com/EuroProofNet/ProgramVerification/wiki)) of this repository.
 
 The wiki is ongoing work towards deliverable **D5 (month 18): Comparison of the approaches used in the Software Verification competition SV-COMP** (see the [MoU of COST action CA20111](https://www.cost.eu/actions/CA20111/)).
 
